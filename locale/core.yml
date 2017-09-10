@@ -534,7 +534,7 @@ core:
     some_others: "{count} other|{count} others"  # Referenced by flarum-likes.yml, flarum-mentions.yml
     start_a_discussion: Start a Discussion
     username: Username
-    write_a_reply: Write a Reply...
+    write_a_reply: Napisi poruku...
     you: You                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
